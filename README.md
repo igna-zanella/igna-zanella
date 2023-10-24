@@ -2,7 +2,7 @@ Hola mundo 👋
 
 
 
-- 🔭 Estoy trabajando en proyectos de diseños web.
+- 🔭 Me gusta trabajar en proyectos de diseños web.
 - 🌱 Estoy estudiando técnicas de programación.
 - 👯 Busco colaboración en desarrollo web.
 - 💻​ Html, CSS, Javascript, Python.
